@@ -44,4 +44,3 @@ simple dashboard to manage books and authors.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
